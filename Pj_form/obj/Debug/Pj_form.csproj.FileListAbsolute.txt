@@ -16,3 +16,4 @@ C:\Users\super\OneDrive\Documenten\GitHub\PJ-4\Pj_form\obj\Debug\Pj_form.Propert
 C:\Users\super\OneDrive\Documenten\GitHub\PJ-4\Pj_form\obj\Debug\Pj_form.csproj.GenerateResource.Cache
 C:\Users\super\OneDrive\Documenten\GitHub\PJ-4\Pj_form\obj\Debug\Pj_form.exe
 C:\Users\super\OneDrive\Documenten\GitHub\PJ-4\Pj_form\obj\Debug\Pj_form.pdb
+C:\Users\super\OneDrive\Documenten\GitHub\PJ-4\Pj_form\obj\Debug\Pj_form.Form1.resources

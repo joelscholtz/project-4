@@ -15,19 +15,10 @@ namespace Pj_form
         public Form1()
         {
             InitializeComponent();
-<<<<<<< HEAD
+
             // DEBUG WORKING 
-            Locations  l = new Locations();
-            l.GetLocations();
            
-            //List<Location> locations = l.GetLocations();
-            foreach (Location  s in l.GetLocations())
-            {
-                Console.WriteLine(s.name);
-            }
-            var test = l.GetLocation(1222);
-            // END WORKING
-=======
+          
 
             Locations l = new Locations();
             l.GetLocations();
@@ -37,8 +28,6 @@ namespace Pj_form
             {
                 Console.WriteLine(s.name);
             }
-
->>>>>>> a99f2b6beabb2abdd479de6ce6615529ce0eb3ec
         }
 
     }
