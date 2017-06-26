@@ -39,12 +39,14 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="Controllers\Locations.cs" />
+    <Compile Include="Controllers\schedules.cs" />
     <Compile Include="Design_patterns\Iterator.cs" />
     <Compile Include="Design_patterns\Option.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Models\Location.cs" />
+    <Compile Include="Models\schedule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
