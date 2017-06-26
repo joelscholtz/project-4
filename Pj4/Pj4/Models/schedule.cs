@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pj4.Models
 {
-    public class schedule <T>: Option<T>
+    public class schedule
     {
         int id;
         int education_id;
@@ -22,16 +22,5 @@ namespace Pj4.Models
             this.stop_dt = stop_dt;
             this.activity_desc = activity_desc;
         }
-        
-            
-        public void Visit(Action onNone, Action<T> onSome)
-            {
-                throw new NotImplementedException();
-            }
-
-        public U Visit<U>(Func<U> onNone, Func<T, U> onSome)
-            {
-                throw new NotImplementedException();
-            }
     }
 }
