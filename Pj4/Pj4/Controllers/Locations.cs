@@ -9,7 +9,7 @@ namespace Pj4
     public class Locations
     {
         //Location loc;
-        List<Location> locs;
+        public List<Location> locs;
         public Locations()
         {
             GenerateLocationList();

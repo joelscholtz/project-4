@@ -1,16 +1,16 @@
-﻿using Pj4.Models;
+﻿using Pj4;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pj4.Controllers
+namespace Pj4
 {
-    public class schedules 
+    public class Schedules 
     {
-        schedule s;
-        schedule GetSchedule(int education_id)
+        Schedule s;
+        Schedule GetSchedule(int education_id)
         {
             throw new NotImplementedException();
         }

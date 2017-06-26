@@ -38,19 +38,19 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Controllers\educations.cs" />
+    <Compile Include="Controllers\Educations.cs" />
     <Compile Include="Controllers\Locations.cs" />
-    <Compile Include="Controllers\schedules.cs" />
-    <Compile Include="Controllers\users.cs" />
+    <Compile Include="Controllers\Schedules.cs" />
+    <Compile Include="Controllers\Users.cs" />
     <Compile Include="Design_patterns\Iterator.cs" />
     <Compile Include="Design_patterns\Option.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Models\education.cs" />
+    <Compile Include="Models\Education.cs" />
     <Compile Include="Models\Location.cs" />
-    <Compile Include="Models\schedule.cs" />
-    <Compile Include="Models\user.cs" />
+    <Compile Include="Models\Schedule.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

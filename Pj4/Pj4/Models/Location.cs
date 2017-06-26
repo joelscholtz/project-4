@@ -22,8 +22,5 @@ namespace Pj4
             this.x_coord = x_coord;
             this.y_coord = y_coord;
         }
-
-    }
-
-    
+    } 
 }

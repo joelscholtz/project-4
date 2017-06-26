@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pj4.Models
+namespace Pj4
 {
-    public class schedule
+    public class Schedule
     {
-        int id;
-        int education_id;
-        string start_dt;
-        string stop_dt;
-        string activity_desc;
+        public int id;
+        public int education_id;
+        public string start_dt;
+        public string stop_dt;
+        public string activity_desc;
 
-        public schedule(int id, int education_id, string start_dt, string stop_dt, string activity_desc)
+        public Schedule(int id, int education_id, string start_dt, string stop_dt, string activity_desc)
         {
             this.id = id;
             this.education_id = education_id;

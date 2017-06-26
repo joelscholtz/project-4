@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Pj4.Models;
+using Pj4;
 
-namespace Pj4.Controllers
+namespace Pj4
 {
-    public class users
+    public class Users
     {
-        user u;
+        User u;
 
-        public void RegisterUser(user u)
+        public void RegisterUser(User u)
         {
             throw new NotImplementedException();
         }
