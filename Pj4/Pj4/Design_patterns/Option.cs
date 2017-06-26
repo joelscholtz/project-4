@@ -26,7 +26,12 @@ namespace Pj4
     public class Some<T> : Option<T>
     {
         T value;
+ 
         public Some(T value) { this.value = value; }
+
+      
+
+        // public Some(List<T> locs) { this.locs = locs; }
 
         public void Visit(Action onNone, Action<T> onSome)
         {
