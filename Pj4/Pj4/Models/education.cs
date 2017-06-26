@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pj4.Models
+namespace Pj4
 {
-    public class education
+    public class Education
     {
-        int id;
-        string name;
-        string short_desc;
-        string long_desc;
+        public int id;
+        public string name;
+        public string short_desc;
+        public string long_desc;
 
-        public education(int id, string name, string short_desc, string long_desc)
+        public Education(int id, string name, string short_desc, string long_desc)
         {
             this.id = id;
             this.name = name;

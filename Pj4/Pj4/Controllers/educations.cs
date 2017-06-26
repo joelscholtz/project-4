@@ -5,24 +5,43 @@ using System.Text;
 using System.Threading.Tasks;
 using Pj4.Models;
 
-namespace Pj4.Controllers
+namespace Pj4
 {
-    public class educations
-    { 
-        
-        public education GetEducation(int id)
+    public class Educations
+    {
+        public List<Education> educations;
+        public Educations()
         {
-            throw new NotImplementedException();
+            GenerateEducationList();
         }
-
-        public education GetEducation(string name)
+        public Option<Education> GetEducation(int id)
         {
-            throw new NotImplementedException();
+            var obj = educations.Find(x => x.id == id);
+            if (obj == null)
+            {
+                return new None<Education>();
+            }
+            else
+            {
+                return new Some<Education>(obj);
+            }
         }
-
-        public void AddEducation (int id, string name, string short_desc, string long_desc)
+        public Option<Education> GetEducation(string name)
         {
-            throw new NotImplementedException();
+            var obj = educations.Find(x => x.name == name);
+            if (obj == null)
+            {
+                return new None<Education>();
+            }
+            else
+            {
+                return new Some<Education>(obj);
+            }
+        }
+        public void GenerateEducationList()
+        {
+            educations = new List<Education>();
+            educations.Add(new Education(1 , "Informatica" , "short desc" , "Long descc"));
         }
     }
 }
