@@ -13,3 +13,20 @@ C:\Users\super\OneDrive\Documenten\GitHub\PJ-4\Pj4\Pj4\obj\Debug\Pj4.MainPage.xa
 C:\Users\super\OneDrive\Documenten\GitHub\PJ-4\Pj4\Pj4\obj\Debug\Pj4.App.xaml.g.cs
 C:\Users\super\OneDrive\Documenten\GitHub\PJ-4\Pj4\Pj4\obj\Debug\Pj4.dll
 C:\Users\super\OneDrive\Documenten\GitHub\PJ-4\Pj4\Pj4\obj\Debug\Pj4.pdb
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Pj4.dll
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Pj4.pdb
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\obj\Debug\Pj4.csprojResolveAssemblyReference.cache
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\obj\Debug\Pj4.MainPage.xaml.g.cs
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\obj\Debug\Pj4.App.xaml.g.cs
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\obj\Debug\Pj4.dll
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\obj\Debug\Pj4.pdb
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\obj\Debug\Pj4.dll.mdb
+C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4\bin\Debug\Pj4.dll.mdb
