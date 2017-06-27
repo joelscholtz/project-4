@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pj4
 {
-    public class Locations
+    public class Locations 
     {
         //Location loc;
         public List<Location> locs;
@@ -19,6 +19,7 @@ namespace Pj4
         {
             // Find location in list by education_id
             var obj = locs.Find(x => x.education_id == education_id);
+            
             if (obj == null)
             {
                 return new None<Location>();

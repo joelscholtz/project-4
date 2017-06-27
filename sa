@@ -1,0 +1,75 @@
+[33mcommit 9ee40f6101618f2a37ee33255bce5c1e9e9ef439[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: StefanDeWitHR <stefan_de_wit@outlook.com>
+Date:   Tue Jun 27 10:11:02 2017 +0200
+
+    Visitor example added
+
+[33mcommit d924d19d107a07bc6040b011a62aa20c27637604[m
+Author: StefanDeWitHR <stefan_de_wit@outlook.com>
+Date:   Mon Jun 26 18:16:57 2017 +0200
+
+    Fixed all
+
+[33mcommit 449c041e12be7ee0ada03bd50e4a9ca41b8ebcaa[m
+Author: StefanDeWitHR <stefan_de_wit@outlook.com>
+Date:   Mon Jun 26 18:11:22 2017 +0200
+
+    Educations controller + model fixed
+
+[33mcommit bae1fda99e5c8c458a98f69982ebedfb73a0b282[m
+Author: StefanDeWitHR <stefan_de_wit@outlook.com>
+Date:   Mon Jun 26 18:00:08 2017 +0200
+
+    Fixed git
+
+[33mcommit 1b72cbd78234a3458c881fb2eb06b714bff562a6[m
+Merge: 7e159cf a99f2b6
+Author: StefanDeWitHR <stefan_de_wit@outlook.com>
+Date:   Mon Jun 26 17:52:16 2017 +0200
+
+    Merge branch 'master' of https://github.com/joelscholtz/project-4
+
+[33mcommit 7e159cf1db96b5234fa1205e51a9cc880352fba8[m
+Merge: 14de01c 51a8d71
+Author: StefanDeWitHR <stefan_de_wit@outlook.com>
+Date:   Mon Jun 26 17:51:49 2017 +0200
+
+    Merge branch 'master' of https://github.com/joelscholtz/project-4
+
+[33mcommit a99f2b6beabb2abdd479de6ce6615529ce0eb3ec[m
+Author: StefanDeWitHR <stefan_de_wit@outlook.com>
+Date:   Mon Jun 26 17:43:00 2017 +0200
+
+    Add files via upload
+
+[33mcommit 60959541c576c497cc27aefba2c2e98ec7291414[m
+Author: joelscholtz <joelscholtz@hotmail.com>
+Date:   Mon Jun 26 16:22:20 2017 +0200
+
+    stefan
+
+[33mcommit 7c3656a07b4cbf99371e08f2ca0aa35d1d04bc13[m
+Author: joelscholtz <joelscholtz@hotmail.com>
+Date:   Mon Jun 26 16:07:24 2017 +0200
+
+    ja nee
+    
+    users, educations, education, user
+
+[33mcommit 14de01c3ea2f8b5f05927b2068a26284d00260f8[m
+Author: StefanDeWitHR <stefan_de_wit@outlook.com>
+Date:   Mon Jun 26 15:16:08 2017 +0200
+
+    Locations functions added
+
+[33mcommit 51a8d7153c912d7de6aa13d96afc3e4a65cee6f1[m
+Author: joelscholtz <joelscholtz@hotmail.com>
+Date:   Mon Jun 26 15:13:54 2017 +0200
+
+    hallo
+
+[33mcommit d9af8028603eb9265b82fe453b8eed5f8894f40b[m
+Author: StefanDeWitHR <stefan_de_wit@outlook.com>
+Date:   Mon Jun 26 14:53:40 2017 +0200
+
+    Added New project
