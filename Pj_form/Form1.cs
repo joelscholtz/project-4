@@ -17,10 +17,8 @@ namespace Pj_form
             InitializeComponent();
 
             // DEBUG WORKING 
-           
-          
-
             Locations l = new Locations();
+            
             l.GetLocations();
 
             //List<Location> locations = l.GetLocations();
@@ -28,6 +26,8 @@ namespace Pj_form
             {
                 Console.WriteLine(s.name);
             }
+            l.GetLocation(1111).Visit(() => { Console.WriteLine("Not exist"); }, item => Console.WriteLine(item.name));
+            l.GetLocation(1).Visit(() => { Console.WriteLine("Not exist"); }, item => Console.WriteLine(item.name));
         }
 
     }
