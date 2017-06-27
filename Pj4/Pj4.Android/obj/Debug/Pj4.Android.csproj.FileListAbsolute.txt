@@ -109,5 +109,3 @@ C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4
 C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
 C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4.Android\bin\Debug\System.Xml.dll.mdb
 C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4.Android\bin\Debug\System.Xml.Linq.dll.mdb
-C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4.Android\obj\Debug\Pj4.Android.dll.mdb
-C:\Users\joels\OneDrive\Documenten\school\jaar 1\project 4\app\project-4\Pj4\Pj4.Android\bin\Debug\Pj4.Android.dll.mdb
